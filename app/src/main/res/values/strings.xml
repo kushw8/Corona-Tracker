@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Corona Tracker</string>
+
+    <string name="bold"></string>
+    <string name="light"></string>
+    <string name="regular"></string>
+</resources>
